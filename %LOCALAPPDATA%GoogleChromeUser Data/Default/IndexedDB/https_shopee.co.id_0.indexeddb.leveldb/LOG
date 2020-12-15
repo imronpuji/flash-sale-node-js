@@ -1,0 +1,11 @@
+2020/12/15-14:34:26.049 2108 Reusing MANIFEST D:\opensource\wabot\%LOCALAPPDATA%GoogleChromeUser Data\Default\IndexedDB\https_shopee.co.id_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/15-14:34:26.050 2108 Recovering log #36
+2020/12/15-14:34:26.064 2108 Reusing old log D:\opensource\wabot\%LOCALAPPDATA%GoogleChromeUser Data\Default\IndexedDB\https_shopee.co.id_0.indexeddb.leveldb/000036.log 
+2020/12/15-14:34:26.842 9d0 Level-0 table #42: started
+2020/12/15-14:34:26.854 9d0 Level-0 table #42: 56702 bytes OK
+2020/12/15-14:34:26.861 9d0 Delete type=0 #36
+2020/12/15-14:34:26.863 9d0 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/12/15-14:34:44.365 1b04 Compacting 1@1 + 1@2 files
+2020/12/15-14:34:44.385 1b04 Generated table #43@1: 279 keys, 9496 bytes
+2020/12/15-14:34:44.385 1b04 Compacted 1@1 + 1@2 files => 9496 bytes
+2020/12/15-14:34:44.388 1b04 compacted to: files[ 0 0 1 0 0 0 0 ]
