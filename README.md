@@ -1,1 +1,1 @@
-# flash-sale-node-js
+# bot-node-js-autobuy
